@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 st.markdown("""
     <style>
         /* Set background color for the entire page */
-        body {
+        .stApp {
             background-color: #FFF0F5;  /* Light Pink */
             font-family: 'Arial', sans-serif;
         }
